@@ -2,7 +2,7 @@
 <testsuites>
   <testsuite name="./" tests="2" assertions="25" failures="0" errors="0" time="19.035084">
     <testsuite name="devmateStoryFeaturesTest" file="/home/tim/Demo1/demo1/StoryFearuresTest.php" tests="1" assertions="19" failures="0" errors="0" time="9.565091">
-      <testcase name="StoryFeaturesTest" class="devmateStoryFeaturesTest" file="/home/tim/Demo1/demo1/StoryFearuresTest.php" line="16" assertions="19" time="9.565091">
+      <testcase name="StoryFeaturesTest" class="devmateStoryFeaturesTest" file="/home/rajny/Demo1/demo1/StoryFearuresTest.php" line="16" assertions="19" time="9.565091">
         <system-out>StoryFeaturesTest: Test: StoryFeaturesTest
 StoryFeaturesTest: Site: http://www.devmate.com
 StoryFeaturesTest: Story check: storyFeatures
